@@ -6,3 +6,5 @@ LiteWASM aims to be a learning experience, but in the future, it may evolve into
 
 > [!WARNING]
 > This project is unfinished and has not yet achieved its original aim. It is not ready for practical use.
+
+In the meantime, my code has many comments explaining my thought processes, feel free to peruse.
